@@ -1,0 +1,112 @@
+{
+  "formatVersion": 1,
+  "game": "minecraft",
+  "versionId": "1.0",
+  "name": "RCS Legacy",
+  "summary": "¡RCS LEGACY llegó!! Y trae de vuelta la tu1 de Minecraft y tu nostalgia.",
+  "files": [
+    {
+      "path": "mods/autosprintfix-1.0.0.jar",
+      "hashes": {
+        "sha512": "a3d1c54fad802bdabb2698d79d64137a2c5ba7f4fbfd3f125104b08ebf8dd84ff3063306342bb969f1b752fac91f5ac248916a54b9033324729010a866dff1f9",
+        "sha1": "b5e41ab2729dca2f1673d04d988ccd00cec607b4"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/E9SxgOCE/versions/DxaQIFm1/autosprintfix-1.0.0.jar"
+      ],
+      "fileSize": 20621
+    },
+    {
+      "path": "mods/classic_beta_biomes-1.1.0-fabric-1.20.1.jar",
+      "hashes": {
+        "sha512": "9973c00b39abb05320c4c476f057bdbecad26edd37d71dd9b960ebec5cc87ed4331257a7452efd2f9987c8b510da20115de4b65b1c280786db143c78872402bd",
+        "sha1": "9c8f349e6c47e3204b336b148f4b658646a0b38f"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/7OOGR1fo/versions/iaMmQJgH/classic_beta_biomes-1.1.0-fabric-1.20.1.jar"
+      ],
+      "fileSize": 13610
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-fabric.jar",
+      "hashes": {
+        "sha512": "2da85c071c854223cc30c8e46794391b77e53f28ecdbbde59dc83b3dbbdfc74be9e68da9ed464e7f98b4361033899ba4f681ebff1f35edc2c60e599a59796f1c",
+        "sha1": "d5fe84a0cc9ed5c7290a76ba570e1f8716afecab"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar"
+      ],
+      "fileSize": 1172214
+    },
+    {
+      "path": "mods/experience-remover-1.0.7.jar",
+      "hashes": {
+        "sha512": "c03c497dd142e4b65dc07c044d8a8354ce05d14babff39e5fc04ee0395c3658a8c6a5c05168f8d272596bfe3e4f8d8290edbee5e21448db7892cede9ab2de6d9",
+        "sha1": "ed8e40ed7af4b000ca676702f63bbd791f56129a"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/DhzNNCIg/versions/bxLTC2tB/experience-remover-1.0.7.jar"
+      ],
+      "fileSize": 71996
+    },
+    {
+      "path": "mods/fabric-api-0.92.6+1.20.1.jar",
+      "hashes": {
+        "sha512": "2bd2ed0cee22305b7ff49597c103a57c8fbe5f64be54a906796d48b589862626c951ff4cbf5cb1ed764a4d6479d69c3077594e693b7a291240eeea2bb3132b0c",
+        "sha1": "3ec0a88b64f252257df6287e9a1d47ed96331e5d"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/UapVHwiP/fabric-api-0.92.6%2B1.20.1.jar"
+      ],
+      "fileSize": 2107873
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
+      "hashes": {
+        "sha512": "26b6b4499bf872ebc2c666227b2ed721ce0e33a8e8b19632971250e5cb6e0b9f35aef15a07ce53cf4755285d9d38c4e05a5f1357bad544d44b9e30b87c0a0055",
+        "sha1": "2120226cd81107dd52eaf5a9a4607035ff26100c"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/mccDBWqV/fabric-language-kotlin-1.13.4%2Bkotlin.2.2.0.jar"
+      ],
+      "fileSize": 7387359
+    },
+    {
+      "path": "mods/FactoryAPI-1.20.1-2.2.6-fabric.jar",
+      "hashes": {
+        "sha512": "fd33cc119951bce798578f3f5fbefd8dfc0a478cb4d72bb76ea63651e89c3e49dbdcabd31ac958e30b6f0093bd0d1a7176d96726fe08197fa36a1b11fac77353",
+        "sha1": "1ad3d5569fe9a436d60bf07fb0fae561e97730db"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nkTZHOLD/versions/13Uw3GnI/FactoryAPI-1.20.1-2.2.6-fabric.jar"
+      ],
+      "fileSize": 563583
+    },
+    {
+      "path": "mods/hunger-remover-1.0.7.jar",
+      "hashes": {
+        "sha512": "66f98486b3058f0dd097ae345608e8c5615055e3676be3d83f80d1454d6e852c07ae72f1f92e12c7df09e53cc369317d72041d96d6a4eb7c18233c1fa71532f3",
+        "sha1": "0d71212e88f6757ca3ef32e66f1336532163cd84"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Duxl9QUS/versions/B4bwwVAn/hunger-remover-1.0.7.jar"
+      ],
+      "fileSize": 54122
+    },
+    {
+      "path": "mods/Legacy4J-1.20.1-1.8.4-Its-fabric.jar",
+      "hashes": {
+        "sha512": "0e71e353d3e2d9e2ae15b490cd8304a696a36a61de488118c08ac457a7a8cda88208031c73cccf04c434700333243ba900fe06d070c2d25cf9dcfc2bfc25d566",
+        "sha1": "23cc13f54150ad6294689932483a488717476260"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gHvKJofA/versions/EPNby9Dx/Legacy4J-1.20.1-1.8.5-lts-fabric.jar"
+      ],
+      "fileSize": 19836543
+    }
+  ],
+  "dependencies": {
+    "minecraft": "1.20.1",
+    "fabric-loader": "0.14.21"
+  }
+}
